@@ -1,0 +1,9 @@
+@media print{
+  article{
+    flex-basis:100%;
+    border: none
+  }
+  p a {
+    display:none
+  }
+}
