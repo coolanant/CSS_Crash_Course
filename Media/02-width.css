@@ -1,4 +1,4 @@
-// desktop first
+/*desktop first*/
 article {
   flex-basis: 24%;
   padding: 1rem;
@@ -19,7 +19,7 @@ article {
 }
 
 
-// mobile first
+/* mobile first */
 article {
   flex-basis: 100%;
   padding: 1rem;
@@ -39,7 +39,11 @@ article {
   }
 }
 
-// extra
+/* extra */
 @media(min-width: 500px)  and (max-width:849px){
 }
+
+/*
+max-height , min-height,
+max-aspect-ratio */
 
